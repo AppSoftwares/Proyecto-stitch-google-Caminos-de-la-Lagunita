@@ -1,6 +1,8 @@
 # 🏰 Caminos de la Lagunita - Management Suite
 
-Sistema integral de gestión para el **Condominio Conjunto 14 Las Huertas** (RIF: J-29900732-3).
+🏢 Sistema Premium de Gestión Residencial para el **Condominio Conjunto 14 Las Huertas** (RIF: J-29900732-3).
+
+**Sitio Web:** [https://github.com/AppSoftwares/Proyecto-stitch-google-Caminos-de-la-Lagunita](https://github.com/AppSoftwares/Proyecto-stitch-google-Caminos-de-la-Lagunita)
 
 ## 🚀 Funcionalidades Clave
 - **Gestión de Nómina:** Cálculo automático de beneficios LOTTT y edición individual de salarios.
