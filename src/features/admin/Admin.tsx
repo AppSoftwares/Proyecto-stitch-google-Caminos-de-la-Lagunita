@@ -272,11 +272,6 @@ export const Admin: React.FC = () => {
     }, 500);
   }
 
-  const [users, setUsers] = useState([
-    { id: 1, name: "Jesus Pirela", email: "jesus@email.com", phone: "+584121234567", role: "Residente", house_number: "14-28", status: "Activo", debt: 865.00 },
-    { id: 2, name: "Carlos Mendoza", email: "carlos@email.com", phone: "+584149876543", role: "Residente", house_number: "11-45", status: "Activo", debt: 20.00 },
-    { id: 3, name: "Ana Rodríguez", email: "ana.r@email.com", phone: "+584241112233", role: "Residente", house_number: "05-12", status: "Activo", debt: 0.00 },
-  ]);
 
   const handleImportResidents = (e: React.ChangeEvent<HTMLInputElement>) => {
     if (e.target.files && e.target.files[0]) {
